@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+
+# Veri setleri ve önbellekler (büyük; lisansları yeniden dağıtıma izin vermeyebilir)
+Data/
+ml-25m/
+ml-*.zip
+*.npy
+*.npz
+
+.env
